@@ -52,7 +52,7 @@ class MyApp extends StatelessWidget {
                         color: Colors.teal,
                       ),
                       title: Text(
-                        '9649728774',
+                        '96XXXXXXXX',
                         style: TextStyle(
                             fontFamily: 'Source Sans Pro',
                             fontSize: 20.0,
